@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\GitHub\exercicios-poo-jogos-digitais\exercicio3\obj\Debug\net9.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\exercicios-poo-jogos-digitais\exercicio3\obj\Debug\net9.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\exercicios-poo-jogos-digitais\exercicio3\obj\Debug\net9.0\exercicio3.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\exercicios-poo-jogos-digitais\exercicio3\obj\Debug\net9.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\exercicios-poo-jogos-digitais\exercicio3\obj\Debug\net9.0\exercicio3.sourcelink.json
